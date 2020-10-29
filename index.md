@@ -1,3 +1,5 @@
+1、信号与系统实践环节
+
 [正弦](https://github.com/3440880071/0000/blob/main/%E6%AD%A3%E5%BC%A6.py/)
 
 [幅度增加和衰减](https://github.com/3440880071/0000/blob/main/%E5%B9%85%E5%BA%A6%E5%A2%9E%E9%95%BF.py/)
